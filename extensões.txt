@@ -1,0 +1,17 @@
+Catppuccin for Vscode
+DotENV (milkestead)
+File Path Bar (wraith)
+GitLens
+ident-raimbow (oderwat)
+Laravel blade formatter (Shuhei)
+Laravel Extra Intellisens (amir)
+Laravel goto view (coding)
+Laravel blade (Christian)
+Markdown all in one (yu xhang)
+Path intelisen 
+PHP docBlock (Neil)
+PHP Intelephense (Ben)
+Project (Alessandro)
+Reload (natq)
+Thunder Client
+Vscode icons

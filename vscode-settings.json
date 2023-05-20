@@ -1,0 +1,32 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "editor.fontFamily": "Dank Mono, DaddyTimeMono Nerd Font",
+    "window.restoreWindows": "none",
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "explorer.confirmDelete": false,
+    //GITLENS
+    "gitlens.currentLine.enabled": false,
+    // PHP
+    "php.suggest.basic": false, // desabilitando sugestões básicas do vscode
+    // BLADE FORMATER 
+    "bladeFormatter.format.sortTailwindcssClasses": true,
+    "[blade]": {
+        "editor.defaultFormatter": "shufo.vscode-blade-formatter",
+        "editor.formatOnSave": true
+    },
+    // FILE PATH BAR
+    "filePathBar.pathStyle": "relative",
+    // VISUAL
+    "editor.colorDecorators": false,
+    "editor.bracketPairColorization.enabled": false,
+    "editor.fontSize": 16,
+    "editor.minimap.enabled": false,
+    "editor.lineHeight": 1.8,
+    "breadcrumbs.enabled": false,
+    "editor.lineNumbers": "off",
+    "editor.fontLigatures": true
+}
