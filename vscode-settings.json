@@ -28,5 +28,6 @@
     "editor.lineHeight": 1.8,
     "breadcrumbs.enabled": false,
     "editor.lineNumbers": "off",
-    "editor.fontLigatures": true
+    "editor.fontLigatures": true,
+    "workbench.editor.showTabs": false
 }
