@@ -15,3 +15,5 @@ Project (Alessandro)
 Reload (natq)
 Thunder Client
 Vscode icons
+Auto rename tag
+HTML Boilerplate
