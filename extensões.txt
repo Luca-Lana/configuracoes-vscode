@@ -16,4 +16,4 @@ Reload (natq)
 Thunder Client
 Vscode icons
 Auto rename tag
-HTML Boilerplate
+Laravel Blade Snippets
